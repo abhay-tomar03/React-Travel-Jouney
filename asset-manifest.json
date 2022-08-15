@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/React-Travel-Jouney/static/css/main.28e4dffb.css",
+    "main.js": "/React-Travel-Jouney/static/js/main.e6098d6e.js",
+    "index.html": "/React-Travel-Jouney/index.html",
+    "main.28e4dffb.css.map": "/React-Travel-Jouney/static/css/main.28e4dffb.css.map",
+    "main.e6098d6e.js.map": "/React-Travel-Jouney/static/js/main.e6098d6e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28e4dffb.css",
+    "static/js/main.e6098d6e.js"
+  ]
+}
